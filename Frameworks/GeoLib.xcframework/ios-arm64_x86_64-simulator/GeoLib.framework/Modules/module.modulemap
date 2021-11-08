@@ -1,0 +1,6 @@
+framework module GeoLib {
+  umbrella header "GeoLib.h"
+
+  export *
+  module * { export * }
+}
